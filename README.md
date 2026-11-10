@@ -113,7 +113,7 @@ Actual compatibility also depends on the system libraries and GPU driver require
 
 This project follows Semantic Versioning.
 
-Release versions are available on the [Releases page](https://github.com/SEU_USUARIO/rgpu-smi/releases).
+Release versions are available on the [Releases page](https://github.com/ptarcode/rgpu-smi/releases).
 
 ## License
 
