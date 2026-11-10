@@ -72,7 +72,7 @@ chmod +x rust_gpu_smi
 ### 4. Run
 
 ```bash
-./rust_gpu_smi
+./rust_gpu_smi -l 5
 ```
 
 ## Verify Download Integrity
