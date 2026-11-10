@@ -75,6 +75,13 @@ chmod +x rust_gpu_smi
 ./rust_gpu_smi -l 5
 ```
 
+## Keyboard Controls
+
+| Key | Action |
+|---|---|
+| `Ctrl + C` | Exit the application safely |
+
+
 ## Verify Download Integrity
 
 SHA256 checksums are provided with each release.
