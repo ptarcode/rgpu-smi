@@ -117,7 +117,12 @@ Release versions are available on the [Releases page](https://github.com/ptarcod
 
 ## License
 
-See the repository's LICENSE file for licensing information.
+Rust GPU SMI is proprietary software.
+
+Free usage is permitted under the terms of the
+[Proprietary Software License](LICENSE).
+
+Redistribution, modification, and resale are prohibited.
 
 ## Feedback and Contributions
 
