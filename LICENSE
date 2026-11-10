@@ -1,0 +1,37 @@
+# Rust GPU SMI — Proprietary Software License
+
+Copyright (c) 2026 Paulo de Tarço Honório Júnior. All rights reserved.
+
+## 1. Grant of Use
+
+The author grants users a limited, non-exclusive, non-transferable, revocable license to download, install, and use the compiled software for personal and professional purposes.
+
+## 2. Restrictions
+
+Users are NOT permitted to:
+
+- Copy or redistribute the software.
+- Sell, sublicense, or commercially distribute the software.
+- Modify, reverse engineer, decompile, or disassemble the software, except where applicable law permits.
+- Create derivative works based on the software.
+- Remove copyright notices or proprietary markings.
+
+## 3. Ownership
+
+All rights, title, and interest in the software remain with the author.
+
+This license does not transfer ownership or intellectual property rights to users.
+
+## 4. Disclaimer of Warranty
+
+The software is provided "AS IS", without warranties of any kind, express or implied.
+
+The author shall not be liable for damages arising from the use of the software, to the extent permitted by applicable law.
+
+## 5. Termination
+
+This license terminates automatically if the user violates its terms, subject to applicable law.
+
+## 6. Contact
+
+For commercial licensing, redistribution permissions, or other inquiries, contact the author.
