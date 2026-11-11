@@ -19,8 +19,6 @@ The project aims to provide a lightweight, efficient, and easy-to-use monitoring
 
 ## Screenshots
 
-## Preview
-
 ![Rust GPU SMI - NVIDIA RTX 5090](rgpu_smi.png)
 
 ## Downloads
