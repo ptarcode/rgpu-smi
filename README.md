@@ -48,13 +48,13 @@ Choose the appropriate package for your Linux architecture.
 For Linux x86_64:
 
 ```bash
-wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rust_gpu-smi-linux-x86_64-glibc217.tar.gz
+wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rgpu_smi-linux-x86_64-glibc217.tar.gz
 ```
 
 For Linux ARM64:
 
 ```bash
-wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rust_gpu-smi-linux-aarch64-glibc217.tar.gz
+wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rgpu_smi-linux-aarch64-glibc217.tar.gz
 ```
 
 ### 2. Extract
