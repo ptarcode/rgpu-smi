@@ -38,8 +38,8 @@ Choose the appropriate package for your Linux architecture.
 
 ### Available Packages
 
-- `rust_gpu-smi-linux-x86_64-glibc217.tar.gz`
-- `rust_gpu-smi-linux-aarch64-glibc217.tar.gz`
+- `rgpu_smi-linux-x86_64-glibc217.tar.gz`
+- `rgpu_smi-linux-aarch64-glibc217.tar.gz`
 
 ## Installation
 
@@ -60,19 +60,19 @@ wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rgpu_smi-linu
 ### 2. Extract
 
 ```bash
-tar -xzf rust_gpu-smi-linux-x86_64-glibc217.tar.gz
+tar -xzf rgpu_smi-linux-x86_64-glibc217.tar.gz
 ```
 
 ### 3. Make executable
 
 ```bash
-chmod +x rust_gpu_smi
+chmod +x rgpu_smi
 ```
 
 ### 4. Run
 
 ```bash
-./rust_gpu_smi -l 5
+./rgpu_smi -l 5
 ```
 
 ## Keyboard Controls
