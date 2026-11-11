@@ -38,8 +38,8 @@ Choose the appropriate package for your Linux architecture.
 
 ### Available Packages
 
-- `rust-gpu-smi-linux-x86_64-glibc217.tar.gz`
-- `rust-gpu-smi-linux-aarch64-glibc217.tar.gz`
+- `rust_gpu-smi-linux-x86_64-glibc217.tar.gz`
+- `rust_gpu-smi-linux-aarch64-glibc217.tar.gz`
 
 ## Installation
 
@@ -48,19 +48,19 @@ Choose the appropriate package for your Linux architecture.
 For Linux x86_64:
 
 ```bash
-wget https://github.com/SEU_USUARIO/rgpu-smi/releases/latest/download/rust-gpu-smi-linux-x86_64-glibc217.tar.gz
+wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rust_gpu-smi-linux-x86_64-glibc217.tar.gz
 ```
 
 For Linux ARM64:
 
 ```bash
-wget https://github.com/SEU_USUARIO/rgpu-smi/releases/latest/download/rust-gpu-smi-linux-aarch64-glibc217.tar.gz
+wget https://github.com/ptarcode/rgpu-smi/releases/latest/download/rust_gpu-smi-linux-aarch64-glibc217.tar.gz
 ```
 
 ### 2. Extract
 
 ```bash
-tar -xzf rust-gpu-smi-linux-x86_64-glibc217.tar.gz
+tar -xzf rust_gpu-smi-linux-x86_64-glibc217.tar.gz
 ```
 
 ### 3. Make executable
@@ -95,7 +95,7 @@ sha256sum -c SHA256SUMS
 The result should display:
 
 ```text
-rust-gpu-smi-linux-x86_64-glibc217.tar.gz: OK
+rgpu_smi-linux-x86_64-glibc217.tar.gz: OK
 ```
 
 ## Requirements
