@@ -71,26 +71,43 @@ chmod +x rgpu_smi
 
 ### 4. Run
 
-# Monitor all GPUs
+#### Monitor all GPUs
+
+```bash
 ./rgpu_smi
+```
+#### Monitor all GPUs with a 5-second refresh interval
 
-# Monitor all GPUs with a 5-second refresh interval
+```bash
 ./rgpu_smi -l 5
+```
 
-# Monitor a specific GPU
+#### Monitor a specific GPU
+
+```bash
 ./rgpu_smi -g 0
+```
 
-# Monitor multiple GPUs
+#### Monitor multiple GPUs
+
+```bash
 ./rgpu_smi -g 0,1
+```
 
-# Monitor GPUs 0, 2, and 3
+#### Monitor GPUs 0, 2, and 3
+```bash
 ./rgpu_smi --gpu 0,2,3
+```
 
-# Monitor GPUs 0 and 2 with a 5-second refresh interval
+#### Monitor GPUs 0 and 2 with a 5-second refresh interval
+```bash
 ./rgpu_smi -g 0,2 -l 5
+```
 
-# Display help
+#### Display help
+```bash
 ./rgpu_smi --help
+```
 
 ## Keyboard Controls
 
