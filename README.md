@@ -76,10 +76,10 @@ chmod +x rgpu_smi
 ```bash
 ./rgpu_smi
 ```
-#### Monitor all GPUs with a 5-second refresh interval
+#### Monitor all GPUs with a 6-second refresh interval
 
 ```bash
-./rgpu_smi -l 5
+./rgpu_smi -l 6
 ```
 
 #### Monitor a specific GPU
