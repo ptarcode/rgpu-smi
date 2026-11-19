@@ -91,7 +91,7 @@ chmod +x rgpu_smi
 #### Monitor multiple GPUs
 
 ```bash
-./rgpu_smi -g 0,1
+./rgpu_smi -g 0,1,2
 ```
 
 #### Monitor GPUs 0, 2, and 3
